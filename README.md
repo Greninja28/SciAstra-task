@@ -1,6 +1,6 @@
 # SciAstra-task
 
-#Screen shots:
+Screenshots:
 ![image](https://github.com/Greninja28/SciAstra-task/assets/89766122/33afcffc-5401-4952-b4c1-bfbad1fc2d9c)
 ![image](https://github.com/Greninja28/SciAstra-task/assets/89766122/2fac86e7-9fb9-41c3-b0fb-b13cb6c2141c)
 
